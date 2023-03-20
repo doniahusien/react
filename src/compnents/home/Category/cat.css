@@ -1,0 +1,13 @@
+.cat{
+    background: #fde4e4;
+    padding: 25px 15px;
+    cursor: pointer;
+    transition: 0.6s;
+    border-radius: 10px;
+  }
+  .cat:hover {
+    transform: translateY(-20px);
+  }
+  .cat img{
+    width: 40px;
+  }

@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../login"
+		},
+		{
+			"path": "../../../../../form"
+		},
+		{
+			"path": "../../../../../formss"
+		},
+		{
+			"path": "../../../../../state"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"farhanhossen.farhan"
+		]
+	}
+}

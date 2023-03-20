@@ -1,0 +1,21 @@
+.span2 {
+  color: crimson;
+}
+
+.icon {
+  background-color: crimson;
+  color: aliceblue;
+  border-radius: 50%;
+  padding: 6px;
+  width: 28px;
+  height: 28px;
+}
+
+.order_link {
+  text-decoration: none;
+  color: crimson;
+}
+
+.order_link:hover {
+  color: aliceblue;
+}/*# sourceMappingURL=Header.module.css.map */

@@ -1,0 +1,14 @@
+.foodImg{
+    width: 25px;
+}
+button{
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+}
+.active{
+    background-color: aliceblue;
+    color: crimson;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
