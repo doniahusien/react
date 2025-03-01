@@ -31,8 +31,8 @@ const Header = () => {
                             </div>
                         </div>
                     </Col>
-                    <Col lg="6">
-                        <img src={heroImg} alt="" className='img-fluid ' />
+                    <Col lg="1">
+                        <img src={heroImg} alt="" style={{width:"300px"}} />
                     </Col>
                 </Row>
             </Container>
