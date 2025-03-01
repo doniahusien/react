@@ -15,6 +15,7 @@ const Routeing = () => {
                     <Route path='/user' element={<User />} />
                     <Route path='*' element={<NotFound />} />
                     <Route path='/foods' element={<Food />} />
+                    
                 </Routes>
             </Router>
         </div>
